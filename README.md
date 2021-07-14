@@ -4,7 +4,7 @@ Employee Retention Strategies
 Things done in code 
 
 Exploratory data analysis
-Visualization
+Visualization using ggplot
 Correlation
 Logistic Regression
 Random Forest
